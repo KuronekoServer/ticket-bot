@@ -1,0 +1,14 @@
+{
+  "clientId": "DiscordBotのclientID",
+  "token": "DiscordBotのTOKEN",
+
+  "parentOpened": "チケットオープン時のカテゴリID",
+  "Category1": "1番目サポートカテゴリ",
+  "Category2": "2番目サポートカテゴリ",
+  "Category3": "3番目サポートカテゴリ",
+
+  "roleSupport": "サポートチームの役職ID",
+  
+  "logsTicket": "チケットログのためのチャンネルID",
+  "ticketChannel": "チケットを作成するために 埋め込みメッセージ が送信されるチャネルの ID"
+}

@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@agc93/privatebin": "^0.0.2",
+    "@agc93/privatebin": "^0.0.3",
     "@discordjs/builders": "^0.6.0",
     "@discordjs/rest": "^0.1.0-canary.0",
     "chalk": "^4.1.2",
